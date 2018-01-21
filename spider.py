@@ -5,7 +5,7 @@ import sys
 import time
 import random
 
-url = "https://www.cxrxoxwxdxaxi.org/challenges/ai-generated-music-challenge/dynamic_contents"
+url = "https://www.org/"
 chrome_binary = "/Users/Yiwen/Downloads/chromedriver"
 
 num_votes = 0
